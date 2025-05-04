@@ -1,5 +1,6 @@
 # Human Growth and Development
-![cover photo for human growth and development](https://www.shutterstock.com/shutterstock/photos/726185239/display_1500/stock-vector-concept-of-life-cycles-of-man-and-woman-visualization-of-stages-of-human-body-growth-development-726185239.jpg)
+![cover photo for human growth and development](https://simscommunity.info/wp-content/uploads/2025/03/20250328201759_1-1024x576.jpg)
+
 This repository contains a full essay-style response to the ATHE Level 4 Unit 3 assessment on **Human Growth and Development**, covering the physical, intellectual, emotional, and social development of individuals across life stages, with a particular focus on ageing, life transitions, and the support role of health and social care practitioners.
 
 ---
